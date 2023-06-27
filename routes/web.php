@@ -18,3 +18,7 @@ Route::get('/asdasdasd',"AasdasdsadController@index");
 Route::get('/home',"HomeController@index");
 
 Route::get('/adress',"AdressController@index");
+
+Route::get('/fish',"FishController@index");
+
+Route::get('/town',"TownController@index");
